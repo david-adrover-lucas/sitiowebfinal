@@ -1,0 +1,65 @@
+[  
+    {  
+        "titulo": " Pasacalle 15",  
+        "contenido": "precio $10.000",  
+        "medida": "Medida: 2.0 x 0.7 m",  
+        "img": "/assets/imagenes/imagenes2/15_1.webp" ,  
+        "categoria": "pasacalles-15"  
+    },
+    {  
+        "titulo": "Pasacalle 15",  
+        "contenido": "precio $12.000",  
+        "medida": "Medida: 3.0 x 0.7 m",  
+        "img": "/assets/imagenes/imagenes2/15_2.webp" ,  
+        "categoria": "pasacalles-15"  
+    }, 
+    {  
+        "titulo": "baners con portabaners de 15",  
+        "contenido": "precio 30.000",  
+        "medida": "Medida: 1.9 x 0.9 m",  
+        "img": "/assets/imagenes/imagenes2/baner_15_años.jpg",  
+        "categoria": "pasacalles-15"  
+    },   
+    {  
+        "titulo": "Pasacalle 18",  
+        "contenido": "precio $10.000",  
+        "medida": "Medida: 2 x 0.7 m",  
+        "img": "/assets/imagenes/imagenes2/18-IMG.jpeg",  
+        "categoria": "pasacalles-18"  
+    }, 
+    {  
+        "titulo": "Pasacalle 18",  
+        "contenido": "precio $12.000",  
+        "medida": "Medida: 3 x 0.7 m",  
+        "img": "/assets/imagenes/imagenes2/WhatsApp Image 2024-07-03 at 12.43.40 PM.jpeg",  
+        "categoria": "pasacalles-18"  
+    },  
+    {  
+        "titulo": "Pasacalle 18",  
+        "contenido": "precio $15.000",  
+        "medida": "Medida: 4 x 0.7 m",  
+        "img": "/assets/imagenes/imagenes2/18-AÑOS.jpeg",  
+        "categoria": "pasacalles-18"  
+    },
+    {  
+        "titulo": "almadones",  
+        "contenido": "precios $8.000 ",    
+        "medida": "por unidad",
+        "img":"/assets/imagenes/imagenes2/almadones.webp" , 
+        "categoria": "sublimacion"  
+    },  
+    {  
+        "titulo": "gorras",  
+        "contenido": "precios $5.000 c/u",   
+        "medida": "por unidad",
+        "img": "/assets/imagenes/imagenes2/gorras_sublimadas.jpg",  
+        "categoria": "sublimacion"  
+    }, 
+    {  
+        "titulo": "tazas",  
+        "contenido": "precios $6.000 c/u",   
+        "medida": "por unidad",
+        "img": "/assets/imagenes/imagenes2/trizi.jpg",  
+        "categoria": "sublimacion"  
+    }  
+]  
